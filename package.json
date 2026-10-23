@@ -4,6 +4,7 @@
   "private": true,
   "description": "Sitio de portafolio personal servido con Node.js",
   "scripts": {
+    "dev": "node server.js",
     "start": "node server.js"
   },
   "engines": {
