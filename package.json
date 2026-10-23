@@ -1,0 +1,12 @@
+{
+  "name": "portafolio-personal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio de portafolio personal servido con Node.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
